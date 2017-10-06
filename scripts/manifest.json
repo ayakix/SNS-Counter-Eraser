@@ -1,0 +1,18 @@
+{
+  "name": "SNS counter eraser",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "icons": { "48": "icon48.png", "128": "icon128.png" },
+  "description": "「なんかみんながお気に入りしてるし、おもろいんちゃうん？」「ク○おもんない投稿なのになんでこんなLike数多いねん！」という感情から解き放たれたい！そんな自分では面白いことを一つも言えず、共感も得られず、友達も少ない、そのくせ他人が承認されるのを見ていられない性根がヒネくれた人のためのリーサルウェポンです。",
+  "web_accessible_resources": ["css/*.css"],
+  "content_scripts": [{
+    "matches": ["https://facebook.com/*", "https://*.facebook.com/*", "https://twitter.com/*", "https://*.twitter.com/*"],
+    "css": [],
+    "js": [
+      "lib/jquery.min.js",
+      "myapp.js"
+    ],
+    "run_at":"document_idle"
+  }]
+}
+
