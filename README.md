@@ -1,7 +1,8 @@
-FacebookのLike数やTwitterのRetweet数を消すヒネクレExtension
+FBのLike数やTWのRetweet数を消すヒネクレChrome Extension
 ===============
 
 ## 説明
+![ss](https://raw.githubusercontent.com/ayakix/SNS-Counter-Eraser/master/ss.png)
 「なんかみんながお気に入りしてるし、おもろいんちゃうん？」
 「ク○おもんない投稿なのになんでこんなLike数多いねん！」
 という感情から解き放たれたい！
