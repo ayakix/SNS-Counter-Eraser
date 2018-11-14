@@ -1,4 +1,4 @@
-FBのLike数やTWのRetweet数を消すヒネクレChrome Extension
+Facebookのいいね数やTwitterのリツイート数を消すヒネクレChrome Extension「いいね消しゴム」
 ===============
 
 ![ss](https://raw.githubusercontent.com/ayakix/SNS-Counter-Eraser/master/ss.png)
@@ -14,6 +14,6 @@ FacebookのLike数やTwitterのRetweet/Fav数をこの世から消しさりま�
 
 ## インストール方法
 1. [ファイルをダウンロードする](https://github.com/ayakix/SNS-Counter-Eraser/raw/master/SNS-Counter-Eraser.crx)
-2. Chromeの環境設定から拡張機能を開く
+2. Chromeの環境設定から拡張機能を開く。もしくはアドレス欄に `chrome://extensions` を入力しエンターを押す。
 3. 拡張機能のページにダウンロードしたSNS-Counter-Eraser.crxをドラッグ・アンド・ドロップする
 4. TwitterやFacebookを開く
